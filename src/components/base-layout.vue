@@ -5,7 +5,7 @@
         <vs-sidebar top="100px" notShadow square :open="open" fixed :reduce="reduce" :hoverExpand="reduce">
             <template #logo>
                 <div class="mb-6">
-                    <img src="@/assets/algo2.png" style="width : 40px; height : 51px  " />
+                    <!-- <img src="@/assets/algo2.png" style="width : 40px; height : 51px  " /> -->
                 </div>
             </template>
 
@@ -69,7 +69,7 @@
                         </svg> -->
                     </button>
 
-                    <h6 class="ml-3 sidebar-title">Algorand Analytics</h6>
+                    <h6 class="ml-3 sidebar-title">Ethereum Analytics</h6>
                 </div>
             </template>
             <!-- <vs-navbar-item :active="active == 'guide'" id="guide">
