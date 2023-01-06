@@ -5,9 +5,9 @@
      <h1>staking</h1>
 
      <p>
-     If you’ve been in the crypto space for a little while now, you may have heard the term “staking.” You might still have some questions around what it means, how it works, the risks <br />
-     associated with staking, and which cryptocurrencies offer stalking rewards. Not to worry, in this blog post, we’ll go over the basics of staking for you.<br />
-     But first, we’ll start by saying that crypto staking is the process of putting a set amount of cryptocurrency you already own as collateral to support the verification of blockchain <br />
+     If you've been in the crypto space for a little while now, you may have heard the term “staking.” You might still have some questions around what it means, how it works, the risks <br />
+     associated with staking, and which cryptocurrencies offer stalking rewards. Not to worry, in this blog post, we'll go over the basics of staking for you.<br />
+     But first, we'll start by saying that crypto staking is the process of putting a set amount of cryptocurrency you already own as collateral to support the verification of blockchain <br />
      transactions. Participants that offer up their crypto are rewarded for doing so.<br />
      Another way to think about it is that participants are incentivized to earn rewards by maintaining the integrity of the blockchain without a centralized party. While staking is a great way<br />
      to build your cryptocurrency portfolio, it does come with some risks.<br />
@@ -20,14 +20,14 @@
      Like we mentioned above, crypto staking is the process of offering your crypto assets to help verify transactions. When you stake crypto, you are essentially putting your crypto up as <br />
      collateral to help validate these transactions.<br />
      As a token of appreciation for your support, you earn rewards in the form of new crypto tokens. The amount of crypto you earn and the payout interval will depend on the crypto asset<br />
-     you stake, the length of time you stake it for, and the network’s overall health.<br />
+     you stake, the length of time you stake it for, and the network's overall health.<br />
      Not all cryptocurrencies can be staked though.<br />
      Only cryptocurrencies that use a Proof-of-Stake (PoS) algorithm can be staked. Proof-of-Stake is a consensus mechanism that requires participants to stake coins in order for them to<br />
      be randomly selected as a validator of the network. Because participants have to give up their crypto assets, the network is thought to be less susceptible to hacks. After all, participants <br />
      would not want to tamper with the blockchain, lose their crypto assets and the potential for rewards for the sake of hacking it.<br />
      PoS is one of different ways blockchains can process and verify transactions. Another method is called Proof-of-Work, which we will explain later. For now, keep in mind that PoS keeps <br />
      the blockchain distributed, decentralized and secure.<br />
-     Crypto staking can be a great way to earn passive income from your crypto holdings while helping to secure a blockchain network, which can be a noble contribution.<br />
+     Crypto staking can be a great way to earn passive income from your crypto holdings while helping to secure a blockchain network, which can be a noble contribution.<br />
      </p>
 
      <h2 class="mt-10">How Does Crypto Staking Work?</h2>
